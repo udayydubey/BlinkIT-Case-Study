@@ -81,13 +81,22 @@ The case study reports a weak negative correlation of **-0.25**.
 
 The uploaded cleaned Excel workbook contains 8,523 records. Summing its `Sales` column gives **1,201,681.66**. The first-page KPI in the supplied PDF appears to show **1,20,168**, while the detailed analysis and dashboard show approximately **1.20M**. The workbook sum is the value independently calculated from the uploaded dataset; the PDF cover KPI should be corrected to match before external publication.
 
-## Project Files
+## Repository Files
 
-This repository is being prepared with the following deliverables:
+The following project deliverables are available in the repository root:
 
-- Cleaned Excel dataset (`.xlsx`)
-- Interactive Power BI report (`.pbix`)
-- Case study summary (`.pdf`)
+| File | Description |
+|---|---|
+| `Blinkit Cleaned Dataset.xlsx` | Cleaned dataset used for analysis |
+| `blinkit Report.pbix` | Interactive Power BI dashboard |
+| `BlinkITCase Study Report.pdf` | Case study summary, findings, and recommendations |
+
+## How to Use
+
+1. Download `Blinkit Cleaned Dataset.xlsx` to inspect the cleaned data.
+2. Open `blinkit Report.pbix` in Power BI Desktop.
+3. Use the report slicers to explore outlet size, establishment year, item fat content, and location type.
+4. Read `BlinkITCase Study Report.pdf` for the business problem, data-cleaning summary, findings, and recommendations.
 
 ## Author
 
